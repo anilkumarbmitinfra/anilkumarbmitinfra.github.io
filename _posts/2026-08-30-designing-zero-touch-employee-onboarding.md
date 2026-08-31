@@ -56,7 +56,7 @@ Useful measurements include:
 ## Conclusion
 
 Zero-touch onboarding is not only a device-deployment project. It is an
-employee-lifecycle process involving HR, identity, IT service management,
+employee-lifecycle process involving authorized department, identity, IT service management,
 endpoint management and security.
 
 The goal is to give employees a consistent and secure Day 1 experience while

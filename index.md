@@ -24,15 +24,7 @@ IT environments.
 - IT automation
 - Employee onboarding and offboarding
 - Digital workplace technologies
-- 
-## Zero-Touch Onboarding Series
-
-- [Architecture and Workflow](/zero-touch-onboarding/architecture/)
-- [Windows Autopilot and Intune](/zero-touch-onboarding/windows-autopilot/)
-- [macOS and Jamf](/zero-touch-onboarding/macos-jamf/)
-- [Security Controls](/zero-touch-onboarding/security-controls/)
-- [Troubleshooting Guide](/zero-touch-onboarding/troubleshooting/)
-
+  
 ## Latest Articles
 
 My latest technical articles will appear automatically below after they are

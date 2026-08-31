@@ -1,0 +1,9 @@
+title: "Anil Kumar | Enterprise IT Operations"
+description: "Practical insights on IT operations, endpoint management, cybersecurity and digital workplace transformation."
+author: "Anil Kumar"
+theme: minima
+
+header_pages:
+  - about.md
+
+show_excerpts: true
